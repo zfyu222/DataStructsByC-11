@@ -15,8 +15,7 @@
 #include <stdlib.h>
 #include "Script/LinkedList.hpp"
 #include <iostream>
-#include <memory>
-#include <typeinfo.h>
+
 
 #include <string>
 #include "Script/SkipList.hpp"
