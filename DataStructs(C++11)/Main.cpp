@@ -11,8 +11,6 @@
 
 #endif
 
-
-#include <stdlib.h>
 #include "Script/LinkedList.hpp"
 #include <iostream>
 
